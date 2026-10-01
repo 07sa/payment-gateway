@@ -1,0 +1,6 @@
+{
+  "name": "Abhyas Arena - Subscription Checkout",
+  "description": "Daily Math, Science & Reasoning Mastery for Classes 4–7 with instant UPI checkout and WhatsApp parent activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
